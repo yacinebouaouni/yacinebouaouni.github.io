@@ -1,9 +1,0 @@
-[submodule "themes/KeepIt"]
-	path = themes/KeepIt
-	url = https://github.com/younesbelkada/KeepIt.git
-[submodule "themes/hugo-profile"]
-	path = themes/hugo-profile
-	url = https://github.com/younesbelkada/hugo-profile.git
-[submodule "themes/FeelIt"]
-	path = themes/FeelIt
-	url = https://github.com/younesbelkada/FeelIt.git
