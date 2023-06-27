@@ -1,0 +1,29 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+# Configure the English version of the site.
+[en]
+  languageCode = "en-us"
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+
+[fr]
+  languageCode = "fr"
+  contentDir = "content/fr"
+  [fr.params]
+    email = "theriault.remi à courrier.uqam.ca"
+    phone = "Quatre-trois-huit 995 7648"
+    address = {street = "100, rue Sherbrooke Ouest", city = "Montréal", region = "Québec", postcode = "H2X 3P2", country = "Canada", country_code = "CA"}
+    directions = "Bureau 4345 (4e étage), Pavillon Adrien Pinard. Prenez l'ascenseur jusqu'au 4e étage, tournez à gauche, encore à gauche, mon bureau sera à votre droite."
+
+# Uncomment the lines below to configure your website in a second language.
+#[zh]
+#  languageCode = "zh-Hans"
+#  contentDir = "content/zh"
+#  title = "Chinese website title..."
+#  [zh.params]
+#    description = "Site description in Chinese..."
+#  [[zh.menu.main]]
+#    name = "Wo"
+#    url = "#about"
+#    weight = 1
