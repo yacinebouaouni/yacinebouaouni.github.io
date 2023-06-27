@@ -5,6 +5,7 @@ In this blog, I aim to share my knowledge and experiences with you. Expect to fi
 
 I invite you to join me on this exciting and ever-evolving journey through the world of machine learning. Together, we will explore, learn, and unlock the true potential of this remarkable field.
 
+
 # Topics of Interest
 
 ### Research:
@@ -23,3 +24,6 @@ I invite you to join me on this exciting and ever-evolving journey through the w
 
 
 
+
+# What to Expect in this Blog?
+Dive into the world of deep learning, diffusion models, large language models, computer vision, and more. Gain insights from my machine learning notes, explore my projects with code and documentation, and delve into my publications. Discover a curated collection of resources, including books, YouTube channels, articles, courses, and websites, covering AI topics and practical aspects like MLOps and ML system design. Join me on this exciting journey of continuous learning and let's unlock the potential of AI together. Let's dive in and embrace the future of technology!
