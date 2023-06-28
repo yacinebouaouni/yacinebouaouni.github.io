@@ -5,12 +5,12 @@ widget: accomplishments
 
 # Activate this widget? true/false
 active: true
-
+view: 5
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 40
 title: Accomplish&shy;ments
 
 # Date format
