@@ -27,3 +27,13 @@ I invite you to join me on this exciting and ever-evolving journey through the w
 
 # What to Expect in this Blog?
 Dive into the world of deep learning, diffusion models, large language models, computer vision, and more. Gain insights from my machine learning notes, explore my projects with code and documentation, and delve into my publications. Discover a curated collection of resources, including books, YouTube channels, articles, courses, and websites, covering AI topics and practical aspects like MLOps and ML system design. Join me on this exciting journey of continuous learning and let's unlock the potential of AI together. Let's dive in and embrace the future of technology!
+
+
+# ToDos
+- [ ] Add Hackathons
+- [ ] Add Experiences
+- [ ] Add Pagination for notes
+- [ ] Add Pagination for ressources
+- [ ] Correct article display image size
+- [ ] Set Home
+- [ ] Test Upload of one article
