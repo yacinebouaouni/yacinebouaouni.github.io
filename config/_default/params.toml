@@ -130,7 +130,6 @@ contact_links = [
 sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-linkedin = "rempsyc"
 
 ############################
 ## Regional Settings

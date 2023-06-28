@@ -68,6 +68,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yacine-bouaouni-4b0698175/
+  - icon: cv
+    icon_pack: ai
+    link: cv.pdf
   #- icon: coffee
   #  icon_pack: fas
   #  link: https://www.paypal.com/paypalme/rempsyc
