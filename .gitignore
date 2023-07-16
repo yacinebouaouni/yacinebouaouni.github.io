@@ -2,7 +2,9 @@
 .idea/
 
 # Hugo
-/resources/
+resources/
 public/
-.Rproj.user
-.Rhistory
+jsconfig.json
+node_modules/
+go.sum
+.hugo_build.lock
