@@ -26,7 +26,7 @@ sections:
     design:
       background:
         image: 
-          filename: ai.png
+          filename: ai.jpg
         text_color_light: true
   - block: about.biography
     id: about
